@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "MSXwallet",
+    "name": "Mettaswallet",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -24,17 +24,17 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 50,
     "versionPublish": "3.12.1",
-    "path": "file:///C:/Users/Suporte/Desktop/MSX",
+    "path": "file:///C:/Users/Suporte/Desktop/Mettas",
     "publishFtpPath": "public_html",
     "publishType": "local",
-    "publishPath": "file:///C:/Users/Suporte/Desktop/MSX/assets",
+    "publishPath": "file:///C:/Users/Suporte/Desktop/Mettas/assets",
     "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "MSX Wallet - A sua plataforma para recebimentos online",
+        "title": "Mettas Wallet - A sua plataforma para recebimentos online",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -112,9 +112,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///F:/MSX/assets/images/sem-ttulo-461x128.png",
+              "src": "file:///F:/Mettas/assets/images/sem-ttulo-461x128.png",
               "height": 128,
-              "alt": "msx wallet",
+              "alt": "mettas wallet",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -149,7 +149,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "file:///F:/MSX/assets/images/3149-2000x1333.jpg",
+                "image": "file:///F:/Mettas/assets/images/3149-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -164,7 +164,7 @@
               },
               {
                 "active": false,
-                "image": "file:///F:/MSX/assets/images/full-unsplash-photo-1460925895917-afdab827c52f-2000x1424.jpg",
+                "image": "file:///F:/Mettas/assets/images/full-unsplash-photo-1460925895917-afdab827c52f-2000x1424.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -245,7 +245,7 @@
           },
           "logo": {
             "image": {
-              "src": "file:///F:/MSX/assets/images/sem-ttulo-128x46.png",
+              "src": "file:///F:/Mettas/assets/images/sem-ttulo-128x46.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -397,9 +397,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///F:/MSX/assets/images/sem-ttulo-461x128.png",
+              "src": "file:///F:/Mettas/assets/images/sem-ttulo-461x128.png",
               "height": 128,
-              "alt": "msx wallet",
+              "alt": "mettas wallet",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -435,7 +435,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "file:///F:/MSX/assets/images/of8om40-2000x1333.jpg",
+            "bgImage": "file:///F:/Mettas/assets/images/of8om40-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -554,7 +554,7 @@
           },
           "title1": "Não tem mensalidade nem taxa de cadastro",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "A MSX Wallet não cobra mensalidae de você, mesmo que não haja movimentações. Sua conta é criada gratuitamente, e assim permace por todo o tempo.",
+          "caption1": "A Mettas Wallet não cobra mensalidae de você, mesmo que não haja movimentações. Sua conta é criada gratuitamente, e assim permace por todo o tempo.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -653,7 +653,7 @@
           },
           "logo": {
             "image": {
-              "src": "file:///F:/MSX/assets/images/sem-ttulo-128x46.png",
+              "src": "file:///F:/Mettas/assets/images/sem-ttulo-128x46.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -805,9 +805,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///F:/MSX/assets/images/sem-ttulo-461x128.png",
+              "src": "file:///F:/Mettas/assets/images/sem-ttulo-461x128.png",
               "height": 128,
-              "alt": "msx wallet",
+              "alt": "mettas wallet",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -843,7 +843,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "file:///F:/MSX/assets/images/648-2000x1333.jpg",
+            "bgImage": "file:///F:/Mettas/assets/images/648-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -888,7 +888,7 @@
             "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CRIE SUA CONTA AGORA!</a>",
-          "text": "Com um cartão MSX Wallet, você está pronto para diversas situações",
+          "text": "Com um cartão Mettas Wallet, você está pronto para diversas situações",
           "title": "CONTRATE O SEU"
         },
         {
@@ -907,7 +907,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>Como funciona:</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil..</p><p><br></p><p><b>Vantagens de vocêr ter um cartão pré-pago MSX Wallet.</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil.</p>"
+          "text": "<p><b>Como funciona:</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil..</p><p><br></p><p><b>Vantagens de vocêr ter um cartão pré-pago Mettas Wallet.</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil.</p>"
         },
         {
           "_inherit": "features3",
@@ -962,7 +962,7 @@
           },
           "title1": "Não tem mensalidade nem taxa de cadastro",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "A MSX Wallet não cobra mensalidae de você, mesmo que não haja movimentações. Sua conta é criada gratuitamente, e assim permace por todo o tempo.",
+          "caption1": "A Mettas Wallet não cobra mensalidae de você, mesmo que não haja movimentações. Sua conta é criada gratuitamente, e assim permace por todo o tempo.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1064,7 +1064,7 @@
           },
           "logo": {
             "image": {
-              "src": "file:///F:/MSX/assets/images/sem-ttulo-128x46.png",
+              "src": "file:///F:/Mettas/assets/images/sem-ttulo-128x46.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1216,9 +1216,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///F:/MSX/assets/images/sem-ttulo-461x128.png",
+              "src": "file:///F:/Mettas/assets/images/sem-ttulo-461x128.png",
               "height": 128,
-              "alt": "msx wallet",
+              "alt": "mettas wallet",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -1254,7 +1254,7 @@
             "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "file:///F:/MSX/assets/images/648-2000x1333.jpg",
+            "bgImage": "file:///F:/Mettas/assets/images/648-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1288,7 +1288,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>Como funciona:</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil..</p><p><br></p><p><b>Vantagens de vocêr ter um cartão pré-pago MSX Wallet.</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil.</p>"
+          "text": "<p><b>Como funciona:</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil..</p><p><br></p><p><b>Vantagens de vocêr ter um cartão pré-pago Mettas Wallet.</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil.</p>"
         },
         {
           "_inherit": "features4",
@@ -1451,7 +1451,7 @@
           },
           "logo": {
             "image": {
-              "src": "file:///F:/MSX/assets/images/sem-ttulo-128x46.png",
+              "src": "file:///F:/Mettas/assets/images/sem-ttulo-128x46.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1603,9 +1603,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///F:/MSX/assets/images/sem-ttulo-461x128.png",
+              "src": "file:///F:/Mettas/assets/images/sem-ttulo-461x128.png",
               "height": 128,
-              "alt": "msx wallet",
+              "alt": "mettas wallet",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -1643,7 +1643,7 @@
             "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "file:///F:/MSX/assets/images/648-2000x1333.jpg",
+            "bgImage": "file:///F:/Mettas/assets/images/648-2000x1333.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1686,7 +1686,7 @@
             "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CRIE SUA CONTA AGORA!</a>",
-          "text": "Com um cartão MSX Wallet, você está pronto para diversas situações",
+          "text": "Com um cartão Mettas Wallet, você está pronto para diversas situações",
           "title": "CONTRATE O SEU"
         },
         {
@@ -1705,7 +1705,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>Como funciona:</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil..</p><p><br></p><p><b>Vantagens de vocêr ter um cartão pré-pago MSX Wallet.</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil.</p>"
+          "text": "<p><b>Como funciona:</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil..</p><p><br></p><p><b>Vantagens de vocêr ter um cartão pré-pago Mettas Wallet.</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil.</p>"
         },
         {
           "_tags": [
@@ -1784,7 +1784,7 @@
           },
           "logo": {
             "image": {
-              "src": "file:///F:/MSX/assets/images/sem-ttulo-128x46.png",
+              "src": "file:///F:/Mettas/assets/images/sem-ttulo-128x46.png",
               "width": 128,
               "active": true,
               "link": "",

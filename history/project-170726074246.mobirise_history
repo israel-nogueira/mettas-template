@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "MSXwallet",
+    "name": "Mettaswallet",
     "currentPage": "ajuda.html",
     "theme": {
       "name": "mobirise3",
@@ -110,7 +110,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/sem-ttulo-461x128.png",
               "height": 128,
-              "alt": "msx wallet",
+              "alt": "mettas wallet",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -246,7 +246,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/msxwallet-sistema-265x73.png",
+              "src": "@PROJECT_PATH@/assets/images/mettaswallet-sistema-265x73.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -409,7 +409,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/sem-ttulo-461x128.png",
               "height": 128,
-              "alt": "msx wallet",
+              "alt": "mettas wallet",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -555,7 +555,7 @@
           },
           "title1": "Não tem mensalidade nem taxa de cadastro",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "A MSX Wallet não cobra mensalidae de você, mesmo que não haja movimentações. Sua conta é criada gratuitamente, e assim permace por todo o tempo.",
+          "caption1": "A Mettas Wallet não cobra mensalidae de você, mesmo que não haja movimentações. Sua conta é criada gratuitamente, e assim permace por todo o tempo.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -668,7 +668,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/msxwallet-sistema-265x73.png",
+              "src": "@PROJECT_PATH@/assets/images/mettaswallet-sistema-265x73.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -831,7 +831,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/sem-ttulo-461x128.png",
               "height": 128,
-              "alt": "msx wallet",
+              "alt": "mettas wallet",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -912,7 +912,7 @@
             "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CRIE SUA CONTA AGORA!</a>",
-          "text": "Com um cartão MSX Wallet, você está pronto para diversas situações",
+          "text": "Com um cartão Mettas Wallet, você está pronto para diversas situações",
           "title": "CONTRATE O SEU"
         },
         {
@@ -931,7 +931,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>Como funciona:</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil..</p><p><br></p><p><b>Vantagens de vocêr ter um cartão pré-pago MSX Wallet.</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil.</p>"
+          "text": "<p><b>Como funciona:</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil..</p><p><br></p><p><b>Vantagens de vocêr ter um cartão pré-pago Mettas Wallet.</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil.</p>"
         },
         {
           "_inherit": "features3",
@@ -986,7 +986,7 @@
           },
           "title1": "Não tem mensalidade nem taxa de cadastro",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "A MSX Wallet não cobra mensalidae de você, mesmo que não haja movimentações. Sua conta é criada gratuitamente, e assim permace por todo o tempo.",
+          "caption1": "A Mettas Wallet não cobra mensalidae de você, mesmo que não haja movimentações. Sua conta é criada gratuitamente, e assim permace por todo o tempo.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1090,7 +1090,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/msxwallet-sistema-265x73.png",
+              "src": "@PROJECT_PATH@/assets/images/mettaswallet-sistema-265x73.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -1253,7 +1253,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/sem-ttulo-461x128.png",
               "height": 128,
-              "alt": "msx wallet",
+              "alt": "mettas wallet",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -1334,7 +1334,7 @@
             "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CRIE SUA CONTA AGORA!</a>",
-          "text": "Com um cartão MSX Wallet, você está pronto para diversas situações",
+          "text": "Com um cartão Mettas Wallet, você está pronto para diversas situações",
           "title": "CONTRATE O SEU"
         },
         {
@@ -1353,7 +1353,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>Como funciona:</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil..</p><p><br></p><p><b>Vantagens de vocêr ter um cartão pré-pago MSX Wallet.</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil.</p>"
+          "text": "<p><b>Como funciona:</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil..</p><p><br></p><p><b>Vantagens de vocêr ter um cartão pré-pago Mettas Wallet.</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil.</p>"
         },
         {
           "_inherit": "features3",
@@ -1408,7 +1408,7 @@
           },
           "title1": "Não tem mensalidade nem taxa de cadastro",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "A MSX Wallet não cobra mensalidae de você, mesmo que não haja movimentações. Sua conta é criada gratuitamente, e assim permace por todo o tempo.",
+          "caption1": "A Mettas Wallet não cobra mensalidae de você, mesmo que não haja movimentações. Sua conta é criada gratuitamente, e assim permace por todo o tempo.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1512,7 +1512,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/msxwallet-sistema-265x73.png",
+              "src": "@PROJECT_PATH@/assets/images/mettaswallet-sistema-265x73.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -1675,7 +1675,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/sem-ttulo-461x128.png",
               "height": 128,
-              "alt": "msx wallet",
+              "alt": "mettas wallet",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -1756,7 +1756,7 @@
             "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CRIE SUA CONTA AGORA!</a>",
-          "text": "Com um cartão MSX Wallet, você está pronto para diversas situações",
+          "text": "Com um cartão Mettas Wallet, você está pronto para diversas situações",
           "title": "CONTRATE O SEU"
         },
         {
@@ -1775,7 +1775,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>Como funciona:</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil..</p><p><br></p><p><b>Vantagens de vocêr ter um cartão pré-pago MSX Wallet.</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil.</p>"
+          "text": "<p><b>Como funciona:</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil..</p><p><br></p><p><b>Vantagens de vocêr ter um cartão pré-pago Mettas Wallet.</b></p><p>Pense no seu cartão de débito. Agora imagine que ele não é conectado a nenhuma conta corrente, banco e, mais do que isso, você decide com a frequência que quiser qual o valor que ele carregará. É assim que funcionam os pré-pagos. “O portador do cartão carrega um valor em dinheiro, que será usado para saques, compras e pagamentos de serviços. A cada débito, o valor diminui até que o saldo do cartão pré-pago acaba.”, explica Marcela Kawauti, economista do SPC Brasil.</p>"
         },
         {
           "_inherit": "features3",
@@ -1830,7 +1830,7 @@
           },
           "title1": "Não tem mensalidade nem taxa de cadastro",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "A MSX Wallet não cobra mensalidae de você, mesmo que não haja movimentações. Sua conta é criada gratuitamente, e assim permace por todo o tempo.",
+          "caption1": "A Mettas Wallet não cobra mensalidae de você, mesmo que não haja movimentações. Sua conta é criada gratuitamente, e assim permace por todo o tempo.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1934,7 +1934,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/msxwallet-sistema-265x73.png",
+              "src": "@PROJECT_PATH@/assets/images/mettaswallet-sistema-265x73.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
